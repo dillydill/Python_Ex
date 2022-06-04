@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dillydill
+- 👋 Hi, I’m Oleg Iurchenko from Ukraine
 - 👀 I’m interested in QA, Business and Data analysis, Software Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on full time job in a long therm interesting project 
